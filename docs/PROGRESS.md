@@ -1,7 +1,7 @@
 # Progress
 
 ## Done
-- M0 — checked the original app, live API, Algolia record and email helpers; created this continuity log — 24 Oct 2026. Commit: pending.
+- M0 — checked the original app, live API, Algolia record and email helpers; created this continuity log — 24 Oct 2026. Commit: `eb56954` (`M0: progress docs`).
 
 ## In progress
 - None.
